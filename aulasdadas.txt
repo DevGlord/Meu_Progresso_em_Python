@@ -1,0 +1,1 @@
+Até agora já vi como usar o commit e o add
