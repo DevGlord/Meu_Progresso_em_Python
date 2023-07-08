@@ -1,4 +1,0 @@
-Lista de Tarefas
--Estudar Python-
--Estudar Git e Github-
--Estudar SQL-

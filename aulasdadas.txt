@@ -1,2 +1,0 @@
-Até agora já vi como usar o commit e o add
-Já aprendi a clonar repositórios, agora vou aprender o comando git log, que serve para ver o historico de commits
