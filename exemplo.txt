@@ -1,4 +1,3 @@
-Nomes
-Maxi
-idade
-18
+Lista de Tarefas
+-Estudar Python-
+-Estudar Git e Github-
