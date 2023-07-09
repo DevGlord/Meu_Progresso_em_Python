@@ -2,3 +2,9 @@ Manuel
 Lucas
 Vitor
 
+<<<<<<< HEAD
+=======
+Escola:
+Pitabel
+Julio Verne
+>>>>>>> page_home
