@@ -9,7 +9,7 @@
 
 **Ultimos updates:**
 - [X] Vontade de aprender
-- [X] Novas Oportunidade
+- [X] Novas Oportunidades
 - [X] Python
 
 # Comando para habilitar o ambiente virtual
