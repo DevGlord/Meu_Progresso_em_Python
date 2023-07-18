@@ -1,4 +1,5 @@
 ![Python](main-qimg-3c34cdf16ec036656203b0b961cb1683.webp)
+
 [Bem vindo ao meu aprendizado em Python](#bem-vindo-ao-meu-aprendizado-em-python) |      [Comandos uteis](#comando-para-habilitar-o-ambiente-virtual) | [Rede Social](#rede-social) |
 [Módulos em Falta](#módulos-em-falta) 
 
